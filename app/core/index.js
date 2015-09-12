@@ -1,3 +1,3 @@
-require('./main.scss');
+import './main.styl';
 
 module.exports = {};

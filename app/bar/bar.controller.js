@@ -1,3 +1,3 @@
-module.exports = function($scope) {
-  console.log('bar controller');
+module.exports = function($log) {
+    $log.debug('bar controller');
 }
